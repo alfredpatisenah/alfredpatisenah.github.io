@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='prodia.co.id'>Prodia Clinical Laboratory</a>. <a href='tobi.web.id'>Tim Olimpiade Biologi Indonesia</a>. Jakarta, Indonesia. alfredpatisenah01@gmail.com
 
 profile:
   align: right

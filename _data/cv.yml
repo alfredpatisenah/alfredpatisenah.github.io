@@ -10,9 +10,7 @@ cv:
       username: alfredrxiv
 
   sections:
-    Summary:
-      - Results-oriented Molecular Microbiologist with expertise in clinical diagnostics, CRISPR-based gene editing, and bioinformatics. Proven track record of developing automated analysis pipelines and managing international research collaborations.
-      - Passionate about science education. Collaborates with Indonesian government in coaching Indonesian IBO delegates and training the next generation of Indonesian biologist.
+    Summary: Results-oriented Molecular Microbiologist with expertise in clinical diagnostics, CRISPR-based gene editing, and bioinformatics. Proven track record of developing automated analysis pipelines and managing international research collaborations.
         
     Experience:
       - company: Prodia Clinical Laboratory
@@ -103,7 +101,7 @@ cv:
       - label: Languages
         details: Indonesian (native), English (advanced), Hokkien (native)
 
-    talks and conferences:
+    Talks and Conferences:
       - name: Guest Lecturer, BioMedConvo 2026, i3L University
         date: 2026-03
       - name: Guest Lecturer, Clinical Molecular Diagnostics Course, Universitas Pelita Harapan
@@ -115,7 +113,7 @@ cv:
       - name: Presenter, 5th International Conference on Bioinformatics, Biotechnology, and Biomedical Engineering
         date: 2023-09
 
-    awards_and_grants:
+    Awards and Grants:
       - bullet: "Dean's List, School of Life Sciences and Technology, ITB (2022, 2023)"
       - bullet: Ganesha Talent Assistanship, ITB (2022)
       - bullet: Ganesha Karsa Award, ITB (2022)

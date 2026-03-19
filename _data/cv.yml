@@ -24,6 +24,7 @@ cv:
           - Developed a Python pipeline for automated qPCR analysis, improving interpretation efficiency.
       - company: Tim Olimpiade Biologi Indonesia
         position: Scientific Committee Member
+        location: Bandung, Indonesia (Hybrid)
         start_date: 2018
         end_date: present
         highlights:
@@ -31,6 +32,7 @@ cv:
           - Spearheaded the formation of Indonesian biology olympiad alumni community to educate impoverished students.
       - company: Institut Teknologi Bandung
         position: Research Assistant
+        location: Bandung, Indonesia
         start_date: 2024-02
         end_date: 2024-06
         highlights:
@@ -38,12 +40,14 @@ cv:
           - Performed plasmid construction and optimized Agrobacterium-mediated transformation.
       - company: Locavore NXT
         position: Fermentation RnD
+        location: Bali, Indonesia
         start_date: 2023-11
         end_date: 2024-02
         highlights:
           - Implemented submerged fermentation method to enhance vinegar production.
       - company: Institut Teknologi Del
         position: Intern Researcher
+        location: Balige, Indonesia
         start_date: 2021-06
         end_date: 2021-08
         highlights:
@@ -51,6 +55,7 @@ cv:
     Education:
       - institution: Institut Teknologi Bandung
         area: Biotechnology
+        location: Bandung, Indonesia
         degree: MSc
         start_date: 2022
         end_date: 2023
@@ -59,6 +64,7 @@ cv:
           - Secured Rp150m research funding.
       - institution: Institut Teknologi Bandung
         area: Microbiology
+        location: Bandung, Indonesia
         degree: BSc
         start_date: 2018
         end_date: 2022
@@ -66,7 +72,6 @@ cv:
           - Produced CRISPR-Cas9 ribonucleoprotein for transgene-free chili genome editing.
           - Teaching assistant for Research Design, Computation Lab, and Molecular Biology Lab courses.
     
-
 
     Publications:
       - title: sgRNA Design and in vitro Nucleolytic Analysis of Cas9-RNP Complex for Transgene-Free Genome Editing of eIF4E1 Gene from Capsicum annuum L.
@@ -99,7 +104,7 @@ cv:
     Awards:
       - title: "Dean's List"
         authors: "School of Life Sciences and Technology, ITB"
-        date: 2022
+        date: 2023
         awarder: School of Life Sciences and Technology, ITB
         
       - title: "Ganesha Talent Assistanship"
@@ -112,17 +117,17 @@ cv:
         date: 2022
         awarder: Institut Teknologi Bandung
         
-      - bullet: Research Program Funds, LPPM ITB
+      - title: Research Program Funds, LPPM ITB
         authors: Institut Teknologi Bandung
         date: 2022
         awarder: Institut Teknologi Bandung
         
-      - bullet: Winner of XVI NCRM NICHE Fujio Cup
+      - title: Winner of XVI NCRM NICHE Fujio Cup
         authors: NCRM NICHE
         date: 2021
         awarder: NCRM NICHE
       
-      - bullet: Silver Medal in Biology, 16th National Science Olympiad
+      - title: Silver Medal in Biology, 16th National Science Olympiad
         authors: Indonesian Ministry of Education
         date: 2017
         awarder: Indonesian Ministry of Education

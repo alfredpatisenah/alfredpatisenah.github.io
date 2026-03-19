@@ -1,123 +1,125 @@
 cv:
-  name: "Alfred Patisenah"
-  location: "Indonesia"
-  email: "alfredpatisenah01@gmail.com"
-  phone: "+62 878-8241-0128"
+  name: Alfred Patisenah
+  location: Jakarta, Indonesia
+  email: alfredpatisenah01@gmail.com
+  phone: +62 878-8241-0128
   social_networks:
-    - network: "LinkedIn"
-      username: "alfredpatisenah"
+    - network: LinkedIn
+      username: alfredpatisenah
+    - network: Instagram
+      username: alfredrxiv
 
   sections:
-    summary:
-      - "Results-oriented Molecular Microbiologist with expertise in clinical diagnostics, CRISPR-based gene editing, and bioinformatics. Proven track record of developing automated analysis pipelines and managing international research collaborations."
-      - "Passionate about science education. Collaborates with Indonesian government in coaching Indonesian IBO delegates and training the next generation of Indonesian biologist."
+    Summary:
+      - Results-oriented Molecular Microbiologist with expertise in clinical diagnostics, CRISPR-based gene editing, and bioinformatics. Proven track record of developing automated analysis pipelines and managing international research collaborations.
+      - Passionate about science education. Collaborates with Indonesian government in coaching Indonesian IBO delegates and training the next generation of Indonesian biologist.
         
-    experience:
-      - company: "Prodia Clinical Laboratory"
-        position: "Advanced Microbiology Scientist"
-        start_date: "2024-07"
-        end_date: "present"
+    Experience:
+      - company: Prodia Clinical Laboratory
+        position: Advanced Microbiology Scientist
+        start_date: 2024-07
+        end_date: present
         highlights:
-          - "Evaluated medical devices and methods for culture-based identification, antimicrobial susceptibility testing, and 17 NAATs."
-          - "Managed the training program for lab technologists on newly launched tests."
-          - "Collaborated with international partner to bring gut microbiome testing to Indonesia."
-          - "Developed a Python pipeline for automated qPCR analysis, improving interpretation efficiency."
-      - company: "Tim Olimpiade Biologi Indonesia"
-        position: "Scientific Committee Member"
-        start_date: "2018"
-        end_date: "present"
+          - Evaluated medical devices and methods for culture-based identification, antimicrobial susceptibility testing, and 17 NAATs.
+          - Managed the training program for lab technologists on newly launched tests.
+          - Collaborated with international partner to bring gut microbiome testing to Indonesia.
+          - Developed a Python pipeline for automated qPCR analysis, improving interpretation efficiency.
+      - company: Tim Olimpiade Biologi Indonesia
+        position: Scientific Committee Member
+        start_date: 2018
+        end_date: present
         highlights:
-          - "Collaborated with experts and the ministry of education to hold national biology olympiad with over 20,000 participants."
-          - "Spearheaded the formation of Indonesian biology olympiad alumni community to educate impoverished students."
-      - company: "Institut Teknologi Bandung"
-        position: "Research Assistant"
-        start_date: "2024-02"
-        end_date: "2024-06"
+          - Collaborated with experts and the ministry of education to hold national biology olympiad with over 20,000 participants.
+          - Spearheaded the formation of Indonesian biology olympiad alumni community to educate impoverished students.
+      - company: Institut Teknologi Bandung
+        position: Research Assistant
+        start_date: 2024-02
+        end_date: 2024-06
         highlights:
-          - "Project: Rhodotorula yeast metabolic engineering to enhance PUFA production."
-          - "Performed plasmid construction and optimized Agrobacterium-mediated transformation."
-      - company: "Locavore NXT"
-        position: "Fermentation RnD"
-        start_date: "2023-11"
-        end_date: "2024-02"
+          - Project: Rhodotorula yeast metabolic engineering to enhance PUFA production.
+          - Performed plasmid construction and optimized Agrobacterium-mediated transformation.
+      - company: Locavore NXT
+        position: Fermentation RnD
+        start_date: 2023-11
+        end_date: 2024-02
         highlights:
-          - "Implemented submerged fermentation method to enhance vinegar production."
-      - company: "Institut Teknologi Del"
-        position: "Intern Researcher"
-        start_date: "2021-06"
-        end_date: "2021-08"
+          - Implemented submerged fermentation method to enhance vinegar production.
+      - company: Institut Teknologi Del
+        position: Intern Researcher
+        start_date: 2021-06
+        end_date: 2021-08
         highlights:
-          - "Optimized substrate formulation for A. niger solid-state fermentation to enhance lipase production."
+          - Optimized substrate formulation for A. niger solid-state fermentation to enhance lipase production.
 
-    education:
-      - institution: "Institut Teknologi Bandung"
-        area: "Biotechnology"
-        degree: "MSc"
-        start_date: "2022"
-        end_date: "2023"
+    Education:
+      - institution: Institut Teknologi Bandung
+        area: Biotechnology
+        degree: MSc
+        start_date: 2022
+        end_date: 2023
         highlights:
-          - "Investigated the efficacy of bicistronic chaperone-substrate co-localized expression system to enhance recombinant Cas9 solubility."
-          - "Secured Rp150m research funding."
-      - institution: "Institut Teknologi Bandung"
-        area: "Microbiology"
-        degree: "BSc"
-        start_date: "2018"
-        end_date: "2022"
+          - Investigated the efficacy of bicistronic chaperone-substrate co-localized expression system to enhance recombinant Cas9 solubility.
+          - Secured Rp150m research funding.
+      - institution: Institut Teknologi Bandung
+        area: Microbiology
+        degree: BSc
+        start_date: 2018
+        end_date: 2022
         highlights:
-          - "Produced CRISPR-Cas9 ribonucleoprotein for transgene-free chili genome editing."
-          - "Teaching assistant for Research Design, Computation Lab, and Molecular Biology Lab courses."
+          - Produced CRISPR-Cas9 ribonucleoprotein for transgene-free chili genome editing.
+          - Teaching assistant for Research Design, Computation Lab, and Molecular Biology Lab courses.
 
-    teaching_and_mentorship:
-      - name: "Advisor, Medoensis UG Team, Bioinformatics & Synthetic Biology Competition"
-        date: "2025"
-        summary: "Project: CATCHPV: Genetically engineered M13 virus to treat HPV infection (Gold medal and Grand Winner)."
-      - name: "Advisor, Menadoensis Team of iGEM Indonesian League"
-        date: "2023"
-        summary: "Project: Engineered autotrophic Pichia pastoris for the production of nepelactone (Best human practice awards)."
-      - name: "Coach, Qatar International Biology Olympiad Training"
-        date: "2025"
-      - name: "Coach, Saudi Arabia International Student Training"
-        date: "2023"
+    Teaching and Mentorship:
+      - name: Advisor, Medoensis UG Team, Bioinformatics and Synthetic Biology Competition
+        date: 2025
+        summary: Project: CATCHPV: Genetically engineered M13 virus to treat HPV infection (Gold medal and Grand Winner).
+      - name: Advisor, Menadoensis Team of iGEM Indonesian League
+        date: 2023
+        summary: Project: Engineered autotrophic Pichia pastoris for the production of nepelactone (Best human practice awards).
+      - name: Coach, Qatar International Biology Olympiad Training
+        date: 2025
+      - name: Coach, Saudi Arabia International Student Training
+        date: 2023
 
-    publications:
-      - title: "sgRNA Design and in vitro Nucleolytic Analysis of Cas9-RNP Complex for Transgene-Free Genome Editing of eIF4E1 Gene from Capsicum annuum L."
+    Publications:
+      - title: sgRNA Design and in vitro Nucleolytic Analysis of Cas9-RNP Complex for Transgene-Free Genome Editing of eIF4E1 Gene from Capsicum annuum L.
         authors:
-          - "Tham, J."
-          - "Patisenah, A."
-          - "Tjia, T.O.S."
-          - "Signorelli, S."
-          - "Taufik, I."
-          - "Meitha, K."
-        journal: "Indonesia Journal of Biotechnology"
-        date: "2023"
+          - Tham, J.
+          - Patisenah, A.
+          - Tjia, T.O.S.
+          - Signorelli, S.
+          - Taufik, I.
+          - Meitha, K.
+        journal: Indonesia Journal of Biotechnology
+        date: 2023
 
-    skills:
-      - label: "Molecular Biology"
-        details: "DNA/RNA/protein isolation, cloning, PCR/RT-PCR/OE-PCR, protein purification, SDS-PAGE, BSL-2 pathogen assays"
-      - label: "Bioinformatics & Programming"
-        details: "Python, ImageJ, BLAST, MEGA11, SnapGene, Benchling"
-      - label: "Clinical Diagnostics"
-        details: "IVD devices (MALDI Biotyper, BD Phoenix, Vitek 2, cobas 6800, GeneXpert, HybriSpot)"
-      - label: "Languages"
-        details: "Indonesian (native), English (advanced), Hokkien (native)"
+    Skills:
+      - label: Molecular Biology
+        details: DNA/RNA/protein isolation, cloning, PCR/RT-PCR/OE-PCR, protein purification, SDS-PAGE, BSL-2 pathogen assays
+      - label: Bioinformatics and Programming
+        details: Python, ImageJ, BLAST, MEGA11, SnapGene, Benchling
+      - label: Clinical Diagnostics
+        details: IVD devices (MALDI Biotyper, BD Phoenix, Vitek 2, cobas 6800, GeneXpert, HybriSpot)
+      - label: Languages
+        details: Indonesian (native), English (advanced), Hokkien (native)
 
-    talks_and_conferences:
-      - name: "Guest Lecturer, BioMedConvo 2026, i3L University"
-        date: "March 2026"
-      - name: "Guest Lecturer, Clinical Molecular Diagnostics Course, Universitas Pelita Harapan"
-        date: "2025-10"
-      - name: "Poster presentation, 26th IFCC-EFLM EUROMEDLAB Congress"
-        date: "2025-05"
-      - name: "Invited Speaker, iGBM Talks, Institut Teknologi Bandung"
-        date: "2024-02"
-      - name: "Presenter, 5th International Conference on Bioinformatics, Biotechnology, and Biomedical Engineering"
-        date: "2023-09"
+    talks and conferences:
+      - name: Guest Lecturer, BioMedConvo 2026, i3L University
+        date: 2026-03
+      - name: Guest Lecturer, Clinical Molecular Diagnostics Course, Universitas Pelita Harapan
+        date: 2025-10
+      - name: Poster presentation, 26th IFCC-EFLM EUROMEDLAB Congress
+        date: 2025-05
+      - name: Invited Speaker, iGBM Talks, Institut Teknologi Bandung
+        date: 2024-02
+      - name: Presenter, 5th International Conference on Bioinformatics, Biotechnology, and Biomedical Engineering
+        date: 2023-09
 
     awards_and_grants:
       - bullet: "Dean's List, School of Life Sciences and Technology, ITB (2022, 2023)"
-      - bullet: "Ganesha Talent Assistanship, ITB (2022)"
-      - bullet: "Ganesha Karsa Award, ITB (2022)"
-      - bullet: "Research Program Funds, LPPM ITB - Rp150m (2022)"
-      - bullet: "Winner of XVI NCRM NICHE Fujio Cup (2021)"
-      - bullet: "Silver Medal in Biology, 16th National Science Olympiad (2017)"
-  headline: "Molecular Microbiologist, IBO Coach"
+      - bullet: Ganesha Talent Assistanship, ITB (2022)
+      - bullet: Ganesha Karsa Award, ITB (2022)
+      - bullet: Research Program Funds, LPPM ITB - Rp150m (2022)
+      - bullet: Winner of XVI NCRM NICHE Fujio Cup (2021)
+      - bullet: Silver Medal in Biology, 16th National Science Olympiad (2017)
+  headline: Molecular Microbiologist, IBO Coach

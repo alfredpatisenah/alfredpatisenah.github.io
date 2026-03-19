@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>+62 8788 2410 128</p>
-    <p>Jl. Matraman Dalam III No.5, RT.14/RW.7</p>
-    <p>Central Jakarta, Jakarta 10320</p>
-
+    
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 

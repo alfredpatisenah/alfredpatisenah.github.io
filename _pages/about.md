@@ -6,7 +6,7 @@ subtitle: <a href='https://prodia.co.id'>Prodia Clinical Laboratory</a>. <a href
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.jpeg
   image_circular: false # crops the image to make it circular
     
 selected_papers: true # includes a list of papers marked as "selected={true}"

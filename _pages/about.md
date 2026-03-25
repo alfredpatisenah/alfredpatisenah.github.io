@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://prodia.co.id'>Prodia Clinical Laboratory</a>. <a href='https://tobi.web.id'>Tim Olimpiade Biologi Indonesia</a>. Jakarta, Indonesia.
+subtitle: <a href='https://prodia.co.id'>Prodia Clinical Laboratory</a>. <a href='https://tobi.web.id'>Tim Olimpiade Biologi Indonesia</a>. Indonesia
 
 profile:
   align: right
@@ -28,3 +28,5 @@ My name is Alfred, I am a molecular microbiologist, educator, and researcher. Cu
 Here I will be sharing about interesting books, papers, and ideas in STEM and philosophy. I will be publishing my writing in English and Indonesian language. 
 
 Feel free to contact me through my email.
+
+This site is not completed yet!

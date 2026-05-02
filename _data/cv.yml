@@ -1,9 +1,8 @@
 cv:
   name: Alfred Patisenah
-  label: Molecular Microbiologist, IBO Coach
+  headline: Molecular Microbiologist, IBO Coach
   location: Jakarta, Indonesia
   email: alfredpatisenah01@gmail.com
-  summary: Results-oriented Molecular Microbiologist with expertise in clinical diagnostics, CRISPR-based gene editing, and bioinformatics. Proven track record of developing automated analysis pipelines and managing international research collaborations. Passionate about science education. Collaborates with Indonesian government in coaching Indonesian IBO delegates and training the next g[](url)eneration of Indonesian biologist.
   social_networks:
     - network: LinkedIn
       username: alfredpatisenah
@@ -11,6 +10,9 @@ cv:
       username: alfredrxiv
 
   sections:
+    Summary:
+      - Results-oriented Molecular Microbiologist with expertise in clinical diagnostics, CRISPR-based gene editing, and bioinformatics. Proven track record of developing automated analysis pipelines and managing international research collaborations. Passionate about science education. Collaborates with Indonesian government in coaching Indonesian IBO delegates and training the next generation of Indonesian biologist.
+
     Experience:
       - company: Prodia Clinical Laboratory
         position: Advanced Microbiology Scientist
@@ -70,26 +72,29 @@ cv:
         end_date: 2022
         highlights:
           - Produced CRISPR-Cas9 ribonucleoprotein for transgene-free chili genome editing.
-          - Teaching assistant for Research Design, Computation Lab and Molecular Biology Lab courses.
+          - Teaching assistant for Research Design, Computation Lab, and Molecular Biology Lab courses.
 
     Publications:
       - title: sgRNA Design and in vitro Nucleolytic Analysis of Cas9-RNP Complex for Transgene-Free Genome Editing of eIF4E1 Gene from Capsicum annuum L.
-        authors: Tham, J., Patisenah, A., Tjia, T.O.S., Signorelli, S., Taufik, I., Meitha, K.
-        publisher: Indonesia Journal of Biotechnology
-        releaseDate: 2023-12-30
+        authors:
+          - Tham, J.
+          - "***Patisenah, A.***"
+          - Tjia, T.O.S.
+          - Signorelli, S.
+          - Taufik, I.
+          - Meitha, K.
+        journal: Indonesia Journal of Biotechnology
+        date: 2023-12-30
         url: https://journal.ugm.ac.id/ijbiotech/article/view/86778/0
         summary: Chili (Capsicum annuum L.) is a highly valued vegetable, renowned for its unique taste and aroma. However, chili production faces challenges in meeting the high demand due to infections caused by pathogens such as ChiVMV (potyvirus). Previous studies have suggested that chili eIF4E1 plays a crucial role in potyvirus gene transcription. Therefore, this study explores the potential of CRISPR‐Cas9‐based genome editing to enhance chili resistance by introducing premature stop codons or truncated proteins.
 
     Skills:
-      - name: Molecular Biology
-        icon: fa-solid fa-hashtag
-        keywords: DNA/RNA/protein isolation, cloning, PCR/RT-PCR/OE-PCR, protein purification, SDS-PAGE, BSL-2 pathogen assays
-      - name: Bioinformatics and Programming
-        icon: fa-solid fa-hashtag
-        keywords: Python, ImageJ, BLAST, MEGA11, SnapGene, Benchling
-      - name: Clinical Diagnostics
-        icon: fa-solid fa-hashtag
-        keywords: IVD devices (MALDI Biotyper, BD Phoenix, Vitek 2, cobas 6800, GeneXpert, HybriSpot)
+      - label: Molecular Biology
+        details: DNA/RNA/protein isolation, cloning, PCR/RT-PCR/OE-PCR, protein purification, SDS-PAGE, BSL-2 pathogen assays
+      - label: Bioinformatics and Programming
+        details: Python, ImageJ, BLAST, MEGA11, SnapGene, Benchling
+      - label: Clinical Diagnostics
+        details: "IVD devices (MALDI Biotyper, BD Phoenix, Vitek 2, cobas 6800, GeneXpert, HybriSpot)"
 
     Languages:
       - name: Indonesian
@@ -100,32 +105,26 @@ cv:
         summary: "Fluent"
 
     Awards:
-      - title: "Dean's List"
-        authors: "School of Life Sciences and Technology, ITB"
+      - name: "Dean's List"
         date: 2023
-        awarder: School of Life Sciences and Technology, ITB
+        summary: School of Life Sciences and Technology, ITB
 
-      - title: "Ganesha Talent Assistanship"
-        authors: Institut Teknologi Bandung
+      - name: "Ganesha Talent Assistanship"
         date: 2022
-        awarder: Institut Teknologi Bandung
+        summary: Institut Teknologi Bandung
 
-      - title: Ganesha Karsa Award
-        authors: Institut Teknologi Bandung
+      - name: Ganesha Karsa Award
         date: 2022
-        awarder: Institut Teknologi Bandung
+        summary: Institut Teknologi Bandung
 
-      - title: Research Program Funds, LPPM ITB
-        authors: Institut Teknologi Bandung
+      - name: Research Program Funds, LPPM ITB
         date: 2022
-        awarder: Institut Teknologi Bandung
+        summary: Institut Teknologi Bandung
 
-      - title: Winner of XVI NCRM NICHE Fujio Cup
-        authors: NCRM NICHE
+      - name: Winner of XVI NCRM NICHE Fujio Cup
         date: 2021
-        awarder: NCRM NICHE
+        summary: NCRM NICHE
 
-      - title: Silver Medal in Biology, 16th National Science Olympiad
-        authors: Indonesian Ministry of Education
+      - name: Silver Medal in Biology, 16th National Science Olympiad
         date: 2017
-        awarder: Indonesian Ministry of Education
+        summary: Indonesian Ministry of Education

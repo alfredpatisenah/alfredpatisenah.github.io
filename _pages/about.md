@@ -23,9 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Alfred, I am a molecular microbiologist, educator, and researcher. Currently I am a microbiology scientist working in the development department of Prodia Clinical Laboratory, and also a biology olympiad coach for the Indonesian government. My favourite things to do is learning about the universe through science and helping others to understand the world and themself better. 
+My name is Alfred, I am a molecular microbiologist, educator, and researcher. Currently I am a microbiology scientist working in the development department of Prodia Clinical Laboratory, and also a biology olympiad coach for the Indonesian government. My favourite things to do is learning about the universe through science and helping others to understand the world and themself better.
 
-Here I will be sharing about interesting books, papers, and ideas in STEM and philosophy. I will be publishing my writing in English and Indonesian language. 
+Here I will be sharing about interesting books, papers, and ideas in STEM and philosophy. I will be publishing my writing in English and Indonesian language.
 
 Feel free to contact me through my email.
 

@@ -9,7 +9,7 @@ cv:
       username: alfredpatisenah
     - network: Instagram
       username: alfredrxiv
-  
+
   sections:
     Experience:
       - company: Prodia Clinical Laboratory
@@ -71,7 +71,6 @@ cv:
         highlights:
           - Produced CRISPR-Cas9 ribonucleoprotein for transgene-free chili genome editing.
           - Teaching assistant for Research Design, Computation Lab, and Molecular Biology Lab courses.
-    
 
     Publications:
       - title: sgRNA Design and in vitro Nucleolytic Analysis of Cas9-RNP Complex for Transgene-Free Genome Editing of eIF4E1 Gene from Capsicum annuum L.

@@ -9,6 +9,13 @@ cv:
     - network: Instagram
       username: alfredrxiv
 
+  address:
+    street: 150, Kramat Raya, Prodia Tower
+    city: Jakarta Pusat
+    region: DKI Jakarta
+    postalCode: 10430
+    countryCode: ID
+  
   sections:
     Summary:
       - Results-oriented Molecular Microbiologist with expertise in clinical diagnostics, CRISPR-based gene editing, and bioinformatics. Proven track record of developing automated analysis pipelines and managing international research collaborations. Passionate about science education. Collaborates with Indonesian government in coaching Indonesian IBO delegates and training the next generation of Indonesian biologist.

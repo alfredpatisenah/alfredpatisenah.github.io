@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://prodia.co.id'>Prodia Clinical Laboratory</a>. <a href='https://tobi.web.id'>Tim Olimpiade Biologi Indonesia</a>. Indonesia
+subtitle: <a href='https://prodia.co.id'>Prodia Clinical Laboratory</a>. <a href='https://tobi.web.id/tentang/'>Tim Olimpiade Biologi Indonesia</a>. Indonesia
 
 profile:
   align: right

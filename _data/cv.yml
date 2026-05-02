@@ -91,44 +91,42 @@ cv:
       - name: Clinical Diagnostics
         icon: fa-solid fa-hashtag
         keywords: IVD devices (MALDI Biotyper, BD Phoenix, Vitek 2, cobas 6800, GeneXpert, HybriSpot)
-    
+
     Languages:
-      - name: Indonesian 
+      - name: Indonesian
         summary: "Native speaker"
       - name: English
         summary: "Advanced (C1)"
       - name: Hokkien
         summary: "Fluent"
-    
-        
+
     Awards:
       - title: "Dean's List"
         authors: "School of Life Sciences and Technology, ITB"
         date: 2023
         awarder: School of Life Sciences and Technology, ITB
-        
+
       - title: "Ganesha Talent Assistanship"
         authors: Institut Teknologi Bandung
         date: 2022
         awarder: Institut Teknologi Bandung
-      
+
       - title: Ganesha Karsa Award
         authors: Institut Teknologi Bandung
         date: 2022
         awarder: Institut Teknologi Bandung
-        
+
       - title: Research Program Funds, LPPM ITB
         authors: Institut Teknologi Bandung
         date: 2022
         awarder: Institut Teknologi Bandung
-        
+
       - title: Winner of XVI NCRM NICHE Fujio Cup
         authors: NCRM NICHE
         date: 2021
         awarder: NCRM NICHE
-      
+
       - title: Silver Medal in Biology, 16th National Science Olympiad
         authors: Indonesian Ministry of Education
         date: 2017
         awarder: Indonesian Ministry of Education
-        

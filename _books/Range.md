@@ -3,7 +3,7 @@ layout: book-review
 title: "Range: Why Generalists Triumph in a Specialized World"
 author: David Epstein
 cover: assets/img/book_covers/range.jpg
-olid:  # use Open Library ID to fetch cover (if no `cover` is provided)
+olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780735214484 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: psychology personal-development nonfiction science self-help
 tags: top-100

@@ -433,6 +433,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-range-why-generalists-triumph-in-a-specialized-world",
+          title: 'Range: Why Generalists Triumph in a Specialized World',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Range/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
